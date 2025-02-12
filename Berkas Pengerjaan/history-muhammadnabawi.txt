@@ -1,0 +1,24 @@
+    1  mkdir shell-script-dicoding
+    2  cd shell-script-dicoding/
+    3  man free
+    4  free --mega
+    5  df
+    6  man df
+    7  df -h
+    8  man df
+    9  df -h -BG
+   10  man df
+   11  df -h --output='source','pcent'
+   12  man df
+   13  df -h --output='source','pcent' -x tmpfs
+   14  touch script-muhammadnabawi.sh
+   15  nano script-muhammadnabawi.sh 
+   16  sudo chmod +x script-muhammadnabawi.sh 
+   17  ./script-muhammadnabawi.sh 
+   18  nano script-muhammadnabawi.sh 
+   19  ./script-muhammadnabawi.sh 
+   20  nano script-muhammadnabawi.sh 
+   21  clear
+   22  touch history-muhammadnabawi.txt
+   23  ls
+   24  history > history-muhammadnabawi.txt 
